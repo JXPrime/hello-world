@@ -1,2 +1,5 @@
 # hello-world
-A repository
+
+Hello humans!
+
+I am trying to grok git.
